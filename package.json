@@ -1,22 +1,22 @@
 {
   "name": "@imgcook/loader-js",
   "version": "0.0.1",
-  "description": "plugin template",
+  "description": "loader js",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/__test__.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imgcook-plugin/template.git"
+    "url": "git+https://github.com/imgcook-plugin/loader-js.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imgcook-plugin/template/issues"
+    "url": "https://github.com/imgcook-plugin/loader-js/issues"
   },
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/imgcook-plugin/template#readme"
+  "homepage": "https://github.com/imgcook-plugin/loader-js#readme"
 }
